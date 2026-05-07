@@ -1,0 +1,10 @@
+streamlit
+fastapi
+scikit-learn
+plotly
+pandas
+numpy
+matplotlib
+openai
+google-generativeai
+gradio
